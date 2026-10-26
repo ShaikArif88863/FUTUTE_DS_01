@@ -53,26 +53,32 @@ The analysis will answer the following questions:
 
 7. Key Findings
 
-To be completed after calculating results from the dataset.
-
-- Total sales:
-- Total profit:
-- Best-performing product:
-- Best-performing category:
-- Best-performing region:
-- Sales trend:
+- Total sales: $2,297,200.86
+- Total profit: $286,397.02
+- Best-performing sales category: Technology
+- Highest-sales region: West
+- Top product by sales: Canon imageCLASS 2200 Advanced Copier
+- Sales increased significantly from 2015 to 2017.
+- Furniture generated high sales but comparatively low profit.
 
 8. Business Recommendations
 
-Recommendations will be based on the actual results of the analysis. The focus will be on improving profitable sales, identifying successful products and regions, and understanding sales trends.
+1. Focus on Technology products that generate strong sales and profit.
+2. Review Furniture pricing, discounts, and costs to improve profitability.
+3. Study successful sales strategies in the West region.
+4. Track monthly sales to identify seasonal trends.
+5. Compare both sales and profit before deciding which products to promote.
 
 9. Deliverables
 
-- Sales dataset.
-- Data cleaning and analysis.
-- Charts or dashboard.
+- Superstore sales dataset in CSV format.
+- Sales and profit analysis.
+- Category and regional comparisons.
+- Top-selling product analysis.
+- Annual sales chart and PDF report.
 - Business insights and recommendations.
 
 10. Conclusion
 
-This project aims to turn raw retail sales data into useful business insights. The final conclusions will be based on the results obtained from the data analysis.
+The analysis shows that Technology is the strongest category by sales and profit, and the West is the leading region by sales. The business should investigate Furniture profitability and continue monitoring sales trends to support better decisions.
+
